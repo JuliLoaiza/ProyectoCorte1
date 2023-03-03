@@ -1,0 +1,23 @@
+.ServicioP {
+	color: blueviolet;
+}
+
+.image {
+	position: relative;
+	width: 50%;
+	height: 100vh;
+}
+
+.img image {
+	width: 100vw;
+	height: 100vh;
+}
+
+main {
+	position: relative;
+	width: 100vw;
+	height: 20vh;
+	left: 10%;
+	top: 20%;
+    color:aqua;
+}
