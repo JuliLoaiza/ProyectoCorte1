@@ -1,9 +1,7 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import InputC from "./components/InputC";
-import ButtonC from "./components/ButtonC";
-import bubbles from "./img/bubbles.jpg";
-import "./App.css";
+import InputC from "../components/InputC";
+import ButtonC from "../components/ButtonC";
+import bubbles from "../img/bubbles.jpg";
+import "../Pages/Styles/App.css";
 
 function RegistroC() {
 	return (
