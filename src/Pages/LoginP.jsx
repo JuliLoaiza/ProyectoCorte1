@@ -19,7 +19,7 @@ function LoginP() {
 						></ButtonC>
 					</div>
 					<div className="inputsF">
-						<h1>Login Proveedor</h1>
+						<h1 className="texto">Login Proveedor</h1>
 						<InputC
 							type="email"
 							id="email"

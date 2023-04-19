@@ -19,7 +19,7 @@ function LoginC() {
 						></ButtonC>
 					</div>
 					<div className="inputsF">
-						<h1>Login Cliente</h1>
+						<h1 className="texto">Login Cliente</h1>
 						<InputC
 							type="email"
 							id="email"
@@ -30,6 +30,7 @@ function LoginC() {
 							id="contrasena"
 							placeholder="Contraseña"
 						/>
+						
 						<ButtonC
 							type="button"
 							id="login"

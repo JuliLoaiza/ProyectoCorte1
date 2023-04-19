@@ -19,7 +19,7 @@ function RegistroC() {
 						></ButtonC>
 					</div>
 					<div className="inputsF">
-						<h1>Registro Cliente</h1>
+						<h1 className="texto">Registro Cliente</h1>
 						<InputC type="text" id="name" placeholder="Nombre" />
 						<InputC
 							type="text"

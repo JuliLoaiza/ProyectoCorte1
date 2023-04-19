@@ -2,6 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
+  color:rgb(80, 87, 167);
 }
 section{
   position: relative;
@@ -32,6 +34,15 @@ section .contentBx{
 }
 .LoginBtn{
   width: 10%;
+}
+
+.texto{
+  margin: 20%;
+  width: 120%;
+  font-family: 'Poppins';
+font-style: normal;
+font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+text-align: center;
 }
 
 section .LoginBtn{
