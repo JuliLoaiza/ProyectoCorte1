@@ -30,7 +30,7 @@ function LoginC() {
 							id="contrasena"
 							placeholder="Contraseña"
 						/>
-						
+
 						<ButtonC
 							type="button"
 							id="login"
