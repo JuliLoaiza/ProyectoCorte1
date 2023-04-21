@@ -61,9 +61,7 @@ const LoginC = () => {
                                 onChange={handleChange}
                                 value={user.password}
                             />
-                            <a href="/homec" className="ButtonC">
-                                Log In
-                            </a>
+                            <button className="ButtonC" onClick={() => navigate('/homec')}> Login</button>
                             <div className="text">
                                 <h3>Soy Proveedor</h3>
                             </div>

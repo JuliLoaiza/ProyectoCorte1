@@ -69,13 +69,10 @@ section .contentBx{
   background-color: #5F8EFC;
   color:rgb(255, 255, 255);
   height: 3rem;
-  width: 15rem;
+  width: 20rem;
   border:none;
-  text-align: center;
-  padding: 10px;
-  border-radius: 30px;
+  margin: 2rem 0 0 0;
 }
-
 .contendor-form {
   display: flex;
   flex-direction: column;
