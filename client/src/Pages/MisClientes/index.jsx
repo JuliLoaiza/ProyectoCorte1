@@ -2,22 +2,22 @@ import InputC from "../../Components/InputC";
 import ButtonC from "../../Components/ButtonC";
 import bubbles from "../../img/bubbles.jpg";
 import "../HomeP/index.css";
-import ServiceCardC from "../../Components/ServiceCardC";
+import ServiceCardMC from "../../Components/ServiceCardMC";
 
-const HomeC = () => {
+const MisClientes = () => {
 	return (
 		<main className="InputsM">
 			<section>
 				<div class="contentBx">
 					<div className="Titulo">
-						<h1>Home</h1>
+						<h1>Mis clientes</h1>
 						<h2>Algunos servicios recomendados para ti</h2>
 					</div>
 					<div>
-						<ServiceCardC />
-						<ServiceCardC />
-						<ServiceCardC />
-						<ServiceCardC />
+						<ServiceCardMC />
+						<ServiceCardMC />
+						<ServiceCardMC />
+						<ServiceCardMC />
 					</div>
 				</div>
 				<div class="imgBx">
@@ -28,4 +28,4 @@ const HomeC = () => {
 	);
 };
 
-export default HomeC;
+export default MisClientes;

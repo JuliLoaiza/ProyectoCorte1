@@ -14,7 +14,7 @@ const ServiceCardC = (props) => {
 				<img src={ProfilePic} alt="Imagen" />
 			</div>
 			<div class="card-content">
-				<h2 class="card-title">Nombre Proveedor</h2>
+				<h2 class="card-title">Nombre Servicio</h2>
 				<h3 class="card-subtitle">Subtítulo</h3>
 				<p class="card-description">Descripción</p>
 				<div class="card-categories">
