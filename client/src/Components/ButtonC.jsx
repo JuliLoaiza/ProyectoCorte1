@@ -8,6 +8,7 @@ const ButtonC = (props) => {
 			id={props.id}
 			placeholder={props.placeholder}
 			className="ButtonC"
+		//onClick={props.onClick}
 		>
 			{props.placeholder}
 		</button>

@@ -54,3 +54,31 @@ section .contentBx{
   margin-top: 1rem;
 }
 
+.inputC{
+  background-color: #CDD1EE;
+  color: #657190;
+  border-radius: 16px;
+  height: 3rem;
+  width: 20rem;
+  margin: 0 0 1rem 0;
+  border: none;
+  padding-left: 1rem;
+}
+
+.ButtonC{
+  background-color: #5F8EFC;
+  color:rgb(255, 255, 255);
+  height: 3rem;
+  width: 15rem;
+  border:none;
+  text-align: center;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.contendor-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
